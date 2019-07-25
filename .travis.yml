@@ -1,4 +1,5 @@
 language: node_js
-script:testAndLint
+script: npm run testAndLint
 node_js:
+- '10'
 - '12'
