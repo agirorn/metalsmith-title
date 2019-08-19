@@ -63,6 +63,6 @@
 
   MIT
 
-[npm](https://docs.npmjs.com/cli/install.html)**
-[yarn](https://yarnpkg.com)
-[metalsmith-layouts](https://www.npmjs.com/package/metalsmith-layouts)
+[npm]: https://docs.npmjs.com/cli/install.html
+[yarn]: https://yarnpkg.com
+[metalsmith-layouts]: https://www.npmjs.com/package/metalsmith-layouts
