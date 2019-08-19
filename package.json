@@ -2,7 +2,7 @@
 	"name": "metalsmith-title",
 	"description": "A Metalsmith plugin that automatically add a title from processed file",
 	"repository": "git://github.com/agirorn/metalsmith-title.git",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"license": "MIT",
 	"main": "lib/metalsmith-title.js",
 	"devDependencies": {
